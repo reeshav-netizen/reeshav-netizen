@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reeshav-netizen
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning AI/ML concepts
+- 👀 I’m interested in machine learning & data analytics
+- 🌱 
 
 
 <!---
